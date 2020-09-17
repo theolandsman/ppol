@@ -1,0 +1,4 @@
+"0","storms <-storms"
+"0","hurricanes <- filter(storms, status == ""hurricane"") %>%"
+"0","ggplot( aes(pressure,wind)) +"
+"0","  geom_point()"

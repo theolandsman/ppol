@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600299598428.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "336BE665",
+    "lastKnownWriteTime" : 1600297813,
+    "last_content_update" : 1600299598428,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A3B125CF",
+        "caption" : "storms",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=storms&cache_key=A3B125CF",
+        "displayedObservations" : 10010,
+        "environment" : "",
+        "expression" : "storms",
+        "object" : "storms",
+        "preview" : 0,
+        "totalObservations" : 10010,
+        "variables" : 13
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
